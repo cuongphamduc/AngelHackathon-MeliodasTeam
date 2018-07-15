@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724316472639",
+    "firebase_url": "https://traffic-volume-map.firebaseio.com",
+    "project_id": "traffic-volume-map",
+    "storage_bucket": "traffic-volume-map.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724316472639:android:f2bff8481c5a45f0",
+        "android_client_info": {
+          "package_name": "com.vit.trafficvolumemap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724316472639-o9beq5282e6b51bm6fsdup55ntirfkjh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vit.trafficvolumemap",
+            "certificate_hash": "501886ab70be7238dcc38d8fb8c3137caa1a4cd8"
+          }
+        },
+        {
+          "client_id": "724316472639-8ppoi5c7pnmsvdueq823ncg4l9fur01v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI9TsSbng1LgiemXvSpfumODwzb9meuuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724316472639-8ppoi5c7pnmsvdueq823ncg4l9fur01v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
